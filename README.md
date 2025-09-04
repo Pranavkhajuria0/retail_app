@@ -18,11 +18,11 @@ This application simulates a real-world e-commerce environment with features for
 ## 🛠️ Tech Stack
 
 | Layer        | Technology Used           |
-|--------------|----------------------------|
-| Frontend     | HTML, CSS, Bootstrap, JavaScript |
+|--------------|-------------------------|
+| Frontend     | HTML, CSS, JavaScript |
 | Backend      | Python (Flask Framework)   |
 | Database     | MySQL                      |
-| Others       | Font Awesome, Flask-MySQLdb, Jinja2 Templates |
+
 
 ## 🔐 Key Features
 
@@ -52,7 +52,6 @@ This application simulates a real-world e-commerce environment with features for
 - Cart & Checkout Page
 - Invoice Page
 
-*(Screenshots available in `/screenshots` folder)*
 
 ## 📝 How to Run
 
@@ -121,3 +120,4 @@ Werkzeug==2.2.3
    ```bash
    pip install -r requirements.txt
    ```
+
